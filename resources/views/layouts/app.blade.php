@@ -1,0 +1,1 @@
+@livewire('admin-panel-livewire')
